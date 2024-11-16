@@ -1,4 +1,4 @@
-### David Urdaneta - Social Oplesk - Programa Fullstack - Grupo 9
+David Urdaneta - Social Oplesk - Programa Fullstack - Grupo 9
 ---
 
 # Solución de Hacks - 2da parte
