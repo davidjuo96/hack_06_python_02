@@ -1,7 +1,7 @@
 David Urdaneta - Social Oplesk - Programa Fullstack - Grupo 9
 ---
 
-# Solución de Hacks - 2da parte
+# Solución de Hacks #6
 
 ## Tecnologías utilizadas
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
